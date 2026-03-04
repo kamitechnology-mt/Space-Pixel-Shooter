@@ -1,6 +1,4 @@
 # .gitignore per Space Pixel Shooter
-# IGNORIAMO la tool di criptazione perché contiene in chiaro la CHIAVE SEGRETA e non va mai pushata su internet.
-crea_link_criptato.html
 
 # Ignore build artifacts, modules, and saves
 node_modules/
