@@ -1,6 +1,6 @@
 {
     "latest_version": "1.3.7",
-    "update_url_encrypted": "U2FsdGVkX19zYWKBB1q/aTaCdTVP6UNQpFDPawixX6Hgx2MCu0WaEI6g0xUugSPtzQ140NkD6U/gknGLphdVX7djl9/Q49IRlpNNUmJ/o1wdqAkT82U9lu9O777sFBvJIs/zzxvHWBumj/oWhyuqCcIT1fQ2Y5/9jnQJRqoEKwIPfuXfzsntn8pbuIUEjOddxEdzd8Ax+p7z4YfHb+aASA==",
+    "update_url_encrypted": "U2FsdGVkX1/WqSMBx4MneURfoZ8T8JR7CyagUgd9eDw5DIXnXyxVtqJggZiAmZfLwPmEyOy95pBc5vy1xpcCDeHjMcxalRB6GnwmGU+zm23CkcmASBExL0cYFyyiteTF7gpPQskQ2dDS/W9LfUekjL7GU2r8AUgqATYHFY5xTHYT6/5kMvk/T1/jcm/RRt0/LR6Bezb4XrmfVR3m85A6jA==",
     "mandatory": false,
-    "changelog": "Bilanciamento massivo e Fix minori"
+    "changelog": "Bilanciamento massivo e Bug fix"
 }
