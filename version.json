@@ -2,5 +2,6 @@
     "latest_version": "1.3.6",
     "update_url_encrypted": "U2FsdGVkX18DsnO4I/+eiocDXlJFgxuQt5IxhWe+BickSieeTg//IDY+4Aa1hQQMSzVJLPPsD+RYTZRPr7UOMrDYuAGDvKKwgshRfyrAFAk9xiGjxFMqAdpQd9sMsHWn0lwFaFMl1VATZhEPgx1AZKz/q3eP2qCdMEsCsP7EUf0jnH7LIwAdv2Yu5crhQ01UgeFxh/3R3ZRqGdqvJby/hg==",
     "mandatory": false,
-    "changelog": "Installa il nuovo aggiornamento e controlla la Changelog!"
+    "changelog": "IMPORTANTE! Risolto un bug critico sui salvataggi!"
+
 }
