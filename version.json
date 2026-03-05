@@ -1,7 +1,6 @@
 {
-    "latest_version": "1.3.6",
-    "update_url_encrypted": "U2FsdGVkX18DsnO4I/+eiocDXlJFgxuQt5IxhWe+BickSieeTg//IDY+4Aa1hQQMSzVJLPPsD+RYTZRPr7UOMrDYuAGDvKKwgshRfyrAFAk9xiGjxFMqAdpQd9sMsHWn0lwFaFMl1VATZhEPgx1AZKz/q3eP2qCdMEsCsP7EUf0jnH7LIwAdv2Yu5crhQ01UgeFxh/3R3ZRqGdqvJby/hg==",
+    "latest_version": "1.3.7",
+    "update_url_encrypted": "U2FsdGVkX181fPoPYSipuw2qyhF8GDVx/VGnhPQhOq539Jnm8l33YmO4By8vbGr/rzEI70mo1ewCEihy4yBU6Pnq/n9n5Y3XqZceN/o/RxJSk/0Uqp/KIBCLRpA73jns0fpRVYG2S59yly+5P60hC5gDf1X+hVcMAqb9Yz63J/jrhN0PgmB8rAHDi0c789kH9iMxP+o3Mn9LfgS2g/mX0w==",
     "mandatory": false,
-    "changelog": "IMPORTANTE! Risolto un bug critico sui salvataggi!"
-
+    "changelog": "Bilanciamento massivo e Fix minori"
 }
