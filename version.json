@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.3.7",
-    "update_url_encrypted": "U2FsdGVkX1/WqSMBx4MneURfoZ8T8JR7CyagUgd9eDw5DIXnXyxVtqJggZiAmZfLwPmEyOy95pBc5vy1xpcCDeHjMcxalRB6GnwmGU+zm23CkcmASBExL0cYFyyiteTF7gpPQskQ2dDS/W9LfUekjL7GU2r8AUgqATYHFY5xTHYT6/5kMvk/T1/jcm/RRt0/LR6Bezb4XrmfVR3m85A6jA==",
+    "latest_version": "1.3.8",
+    "update_url_encrypted": "U2FsdGVkX1+qy6aEF9T+Cv04UOB/GuDKocKwN2ZpFAGNaUhy5yxbsqqjCJM+fLIUUtEgoLYhgNC+SV7vnhqB/5StpeGCcxh+tzoNI/HC+nuHS7b8jGVGmxHe2kI1YKgXXfKaCBGAT4s4kaoHBL3mOeMHwR0IpntkG2Wublv3qpp4/sEhIJgszcE84nn7qyk82Z/7BWupTW7JO5ZoNy3yvA==",
     "mandatory": false,
-    "changelog": "Bilanciamento massivo e Bug fix"
+    "changelog": "!!BUG HOTFIX CRITICO!! Nuovi Player, Enemy, Boss e Abilità Arise!"
 }
