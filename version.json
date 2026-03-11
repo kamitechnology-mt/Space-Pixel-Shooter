@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.3.8",
-    "update_url_encrypted": "U2FsdGVkX1+qy6aEF9T+Cv04UOB/GuDKocKwN2ZpFAGNaUhy5yxbsqqjCJM+fLIUUtEgoLYhgNC+SV7vnhqB/5StpeGCcxh+tzoNI/HC+nuHS7b8jGVGmxHe2kI1YKgXXfKaCBGAT4s4kaoHBL3mOeMHwR0IpntkG2Wublv3qpp4/sEhIJgszcE84nn7qyk82Z/7BWupTW7JO5ZoNy3yvA==",
+    "latest_version": "1.3.9",
+    "update_url_encrypted": "U2FsdGVkX183kvuHSJxYZ9STff6k/BYiU4452nBP8kEaH5fMaiSlc0XASWZ2dsmTDkDDPjeg6LH3TaiEbXpyzJkMH0oNsGYaPua4xuj0syIWfT+9y09YH3//696Nghj5RpmkOCxSI5jUyKeFf5UyaycxwNf14zhFkJogc93l+VffIDsPGZNI0FldcxL4HzwUEboyxyXT2PifNhtosR6shA==",
     "mandatory": false,
-    "changelog": "!!BUG HOTFIX CRITICO!! Nuovi Player, Enemy, Boss e Abilità Arise!"
+    "changelog": "Nuova cinematica - Nuovo sistema Sanguinamento - Ampliamento Ramo Poteri e tanto altro."
 }
