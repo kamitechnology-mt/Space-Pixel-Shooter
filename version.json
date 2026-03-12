@@ -1,6 +1,6 @@
 {
     "latest_version": "1.4.0",
-    "update_url_encrypted": "U2FsdGVkX18nbwqksoJVdyC5pvgFe+WzJlJ6bIOkXt93wTjCiZN7FXIXtW4W4RyQg7B/BYBBLAin1EZ3BwdXX42t1LS1/YUXnzf0oeoaBoCRm63tf7xIBK4ThEiFByxBqgvjPg74ifTZWN501IN3VeDPLKExiu9b/QAf2PMerCd2d+d7IOd69kq/u95I53TSvzCUPInRuSMPqvRPy881SA==",
+    "update_url_encrypted": "U2FsdGVkX18fNhY/L9zp8Ab4CvgLsdcSKT7Mjq3iKMVq2Cg+3TDm5aFO7Mq4WVpDuBPGvlDJfhUP5r7G3GS3K3irqf/xt/9B+DRlAf3ghzoTlHLaSgX3thDFDNM3cYPw+m6zAfh8RATspqmZQfIUURk3AKktNVYeBOAsMDv7qdLvk2QUzhAtDYDqSfITlza5eCfUhvgO8mCmChXtiJWMUQ==",
     "mandatory": false,
     "changelog": "Rework grafico dell'intero Gameplay - Tasto Mostra FPS - Migliorie Performance e altro."
 }
