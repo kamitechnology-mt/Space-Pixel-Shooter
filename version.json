@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.3.9",
-    "update_url_encrypted": "U2FsdGVkX1+G+xwqrVBiugglc9OXmE7J67F6sq5e8vPcRVirzW+EF9gjuAqQ0qPwi9TyGxhU8kXCCbzun6Y+WXQZV4RdB7FbQzKG6UUznJ/eOqd2uatW+dDb5+ukOCgHRK9wm5EKD8FOKPen8B7/ax2nYSpQzwutw6GegaQOQPy3X1TcNuHQpldUQLPI66FAFM0KRrBL3FhR2gbmnHdcbA==",
+    "latest_version": "1.4.0",
+    "update_url_encrypted": "U2FsdGVkX18nbwqksoJVdyC5pvgFe+WzJlJ6bIOkXt93wTjCiZN7FXIXtW4W4RyQg7B/BYBBLAin1EZ3BwdXX42t1LS1/YUXnzf0oeoaBoCRm63tf7xIBK4ThEiFByxBqgvjPg74ifTZWN501IN3VeDPLKExiu9b/QAf2PMerCd2d+d7IOd69kq/u95I53TSvzCUPInRuSMPqvRPy881SA==",
     "mandatory": false,
-    "changelog": "Nuova cinematica - Nuovo sistema Sanguinamento - Ampliamento Ramo Poteri e tanto altro."
+    "changelog": "Rework grafico dell'intero Gameplay - Tasto Mostra FPS - Migliorie Performance e altro."
 }
