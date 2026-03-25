@@ -1,6 +1,6 @@
 {
     "latest_version": "1.4.4",
-    "update_url_encrypted": "U2FsdGVkX1+IuQTeXnMKx4GBcB3zyxyEqKh90KuAvqxlGLJltDaUpQXIrnOCBoJyF1y2QDQ1rdeYiv+IcCYN/Ox8gBihVulW81S5/7c7EbFDSpCqoq9HfNSAW73ILMS8nirvaWr4niHyPgJF/k6C8iPrYyEbCBJCmGyYYh33T+BCDNE81lxJENEB32U3ZPkwIFb8oKxoI7OAAf/k/iOk4A==",
+    "update_url_encrypted": "U2FsdGVkX19kUkq793YAhir6RGwWR4wsPhmpKBGL8sw0wNtutM+xONym/xIBJDVz7piVnlXO98QA8E1Z1iUtfaTtmeBGMdopABYLjN+oExpKfMMAwcyqqQ8AOf2Vt/YnwYO4v86S5587nJ/5O3m9/LhNprzqvDRUu1B1S+vqpn6jxOi2A/xZs3sGhEozPes+XWU/MVwQ1mFCegNT2jt3kA==",
     "mandatory": false,
     "changelog": "Rework grafico di alcune abilità - Migliorie Performance - Fix di alcuni Bug noti."
 }
