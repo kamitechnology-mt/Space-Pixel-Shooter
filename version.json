@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.4.3",
-    "update_url_encrypted": "U2FsdGVkX18Kj7kZ62KBDWd6PaMEokN2f3/SrYMXjOXGcvA8s6QW/Nk9InU05eX9GKcTVOdDcm5ng/GEv+qtHBWmLZFCwr4J0h4EpHZ78lNytVZbS6RbcSYq9yN6HK2VInLy9DzKVfvK/nqDjhwKRHvzVaEYir0QNhd1/Qmhyod/cO9shzZjEyJxGWmOi5GAfYJjzy1Zi41rW9Abp1FtBg==",
+    "latest_version": "1.4.4",
+    "update_url_encrypted": "U2FsdGVkX1+IuQTeXnMKx4GBcB3zyxyEqKh90KuAvqxlGLJltDaUpQXIrnOCBoJyF1y2QDQ1rdeYiv+IcCYN/Ox8gBihVulW81S5/7c7EbFDSpCqoq9HfNSAW73ILMS8nirvaWr4niHyPgJF/k6C8iPrYyEbCBJCmGyYYh33T+BCDNE81lxJENEB32U3ZPkwIFb8oKxoI7OAAf/k/iOk4A==",
     "mandatory": false,
-    "changelog": "Nuova Cinematica - Migliorie Performance - Adattamenti vari - Fix Bug minori"
+    "changelog": "Rework grafico di alcune abilità - Migliorie Performance - Fix di alcuni Bug noti."
 }
