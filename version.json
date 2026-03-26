@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.4.4",
-    "update_url_encrypted": "U2FsdGVkX19kUkq793YAhir6RGwWR4wsPhmpKBGL8sw0wNtutM+xONym/xIBJDVz7piVnlXO98QA8E1Z1iUtfaTtmeBGMdopABYLjN+oExpKfMMAwcyqqQ8AOf2Vt/YnwYO4v86S5587nJ/5O3m9/LhNprzqvDRUu1B1S+vqpn6jxOi2A/xZs3sGhEozPes+XWU/MVwQ1mFCegNT2jt3kA==",
+    "latest_version": "1.4.5",
+    "update_url_encrypted": "U2FsdGVkX1+EcsH2cs0+VlvrT09VxahP2zIZ0yZYXvM4i7ts5sYZ0W0CoJERCevE5gUwKWIyTJcQJ9+e3Noy6hCFmlumwJcu/7xf/QqhorWtBiG8yRMjHCh3b2E0VDmjAG+2WhvGgae4ZXKWfbOlXJ/nwsLqUh2HwWy5t+ddAsF3xCAIVD5naAQwTfoAVkk9l6zAgLxknM81k9W7APkwyA==",
     "mandatory": false,
-    "changelog": "Rework grafico di alcune abilità - Migliorie Performance - Fix di alcuni Bug noti."
+    "changelog": "Salvataggi Multi-Thread - FIX FINALE AGLI FPS! - Risolti bug critici."
 }
