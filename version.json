@@ -1,6 +1,6 @@
 {
     "latest_version": "1.4.5",
-    "update_url_encrypted": "U2FsdGVkX18o3uNbMiIwbd62DuT8u6MlITRxE1K/W6D8VFfR4xvanet/IY1IJNCtwDnvxb6KCKhzVX0yJoJcvlrk8dPlcuVdo3f12lprwvzU8dORzNlh5G1wratvKXKZnUqz263MWc9jVKJEXYfmu0dn0jdepMbMakD9OGKzFGqCQSMy82LUs4lMbI7Sd7iOEojWYvmb1sjy3yV7HvGuog==",
+    "update_url_encrypted": "U2FsdGVkX1+2D/yyeQ/nTQ4je0knCwDA+Y3hF9uVuW+i2n9NCyWVceYen5hNOlgx8rj2lfJovg4nDYLu5hngCAGsdkrkXPiipRPCdGbeLpW1MNxzj7TIe+sD1cWZhQV6W4kOEVpCa4cY+8T3MNInV2jEnCwfi+0g4qtNVL3bG8KwjM9HlEew66db4hkqCHTRdBJgkH1QPE+SPDQ+lkZK5g==",
     "mandatory": false,
-    "changelog": "Salvataggi Multi-Thread - FIX FINALE AGLI FPS! - Risolti bug critici."
+    "changelog": "STATISTICHE nel menù PAUSA - FIX FINALE AGLI FPS! - Risolti bug critici."
 }
