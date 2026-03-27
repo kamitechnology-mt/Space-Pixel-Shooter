@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.4.5",
-    "update_url_encrypted": "U2FsdGVkX19SKrZuHvscgJAta112BF+wJShhzcEHFmHqD3/ItLEvVC7gJz+UDGSqs6ZiLSaveyn5kgyRKsa6sFuhIRbuzjb6zRW5QZMJZf2Dpk8/aQwbktjdkKUvi5Q8mceCDqbw0vSrZi+uuBkSCVi0R832szon4iTxGs5qw+itdC0WUhEwz9+pvIVeWoPi3/HuyXU4p2L90E6p04i+NA==",
+    "latest_version": "1.4.4",
+    "update_url_encrypted": "",
     "mandatory": false,
     "changelog": "Salvataggi Multi-Thread - FIX FINALE AGLI FPS! - Risolti bug critici."
 }
