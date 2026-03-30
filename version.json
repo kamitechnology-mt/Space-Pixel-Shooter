@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.4.5",
-    "update_url_encrypted": "U2FsdGVkX1+2D/yyeQ/nTQ4je0knCwDA+Y3hF9uVuW+i2n9NCyWVceYen5hNOlgx8rj2lfJovg4nDYLu5hngCAGsdkrkXPiipRPCdGbeLpW1MNxzj7TIe+sD1cWZhQV6W4kOEVpCa4cY+8T3MNInV2jEnCwfi+0g4qtNVL3bG8KwjM9HlEew66db4hkqCHTRdBJgkH1QPE+SPDQ+lkZK5g==",
+    "latest_version": "1.4.6",
+    "update_url_encrypted": "U2FsdGVkX1+uAfkGVt9VitSeggxPyNr9BDH6YvcRi00zk/ausV4P0GVNjTVtsmL6FlXqD6e0HevJh6GRgsB1uklZdzbDyYHDAu0o3tAJ0ftPSqvq+F7vbB9w83QQSzGyUhAMNDrG/GncdbzCnu3bsOBHxk/d+AV4wj+NK5GOoOx52rxkEKcYum1XmdT3cZsTYl+sZ64/MVn2AFDjOOUfXQ==",
     "mandatory": false,
-    "changelog": "STATISTICHE nel menù PAUSA - FIX FINALE AGLI FPS! - Risolti bug critici."
+    "changelog": "Modifiche Space Ally Lock-ON! - Fix bug minori."
 }
